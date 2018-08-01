@@ -7,7 +7,7 @@
     <authors>$author$</authors>
     <owners>$author$</owners>
     <projectUrl>http://www.codeproject.com/Articles/25133/LINQ-to-CSV-library</projectUrl>
-      <iconUrl>http://nuget.org/Media/Default/Packages/LinqToCsv/1.0.0.0/logo.jpg</iconUrl>
+      <iconUrl>http://nuget.org/Media/Default/Packages/LinqToCsvForked/1.0.0.0/logo.jpg</iconUrl>
       <requireLicenseAcceptance>false</requireLicenseAcceptance>
       <summary>
           Serialise/Deserialize your classes to/from CSV and tab delimited files. Very flexible. Supports international date and number formats.
